@@ -1,5 +1,5 @@
 ion-content{
-  background: linear-gradient(to top, #2bc0e4, #eaecc6 );
+  background: url(https://cdn.jsdelivr.net/gh/Nichogonz/ionic-ysfgxi@master/Screenshot%202021-05-02%20195257esertsdy.png);
 
 }
 h1 {
@@ -16,14 +16,16 @@ h6 {
  font-size: 20px;
 font-weight: 1000;;
 }
- p{
+ div{
   color:rgb(6, 49, 54);
   text-align: justify;
   font-family: Helvetica;
   font-size: 15px;
   top: 120px;
-  
+  img {  
+max-width: 100%;  
+height: auto;  
 
 }  
 
-
+ }
