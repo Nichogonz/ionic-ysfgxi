@@ -1,0 +1,29 @@
+ion-content{
+  background: linear-gradient(to top, #2bc0e4, #eaecc6 );
+
+}
+h1 {
+  color: #944f0f;
+ text-align: center;
+ font-family: Times, Times New Roman, serif;
+ font-size: 40px;
+font-weight: 1000;
+}
+h6 {
+ color: #df9423;
+ text-align: center;
+ font-family: Courier New, monospace;
+ font-size: 20px;
+font-weight: 1000;;
+}
+ p{
+  color:rgb(6, 49, 54);
+  text-align: justify;
+  font-family: Helvetica;
+  font-size: 15px;
+  top: 120px;
+  
+
+}  
+
+
